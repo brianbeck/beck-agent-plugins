@@ -1,0 +1,17 @@
+{
+  "name": "stride-threat-model",
+  "version": "1.0.0",
+  "description": "STRIDE threat models, attack trees, DREAD risk scores, mitigations, and Gherkin security test cases, with OWASP LLM Top 10 and OWASP ASI coverage for AI and traditional applications.",
+  "author": {
+    "name": "Beck"
+  },
+  "license": "MIT",
+  "keywords": [
+    "security",
+    "threat-model",
+    "stride",
+    "dread",
+    "owasp"
+  ],
+  "repository": "https://github.com/brianbeck/beck-agent-plugins"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "beck-agent-plugins",
+  "owner": {
+    "name": "Beck"
+  },
+  "description": "Agent Skills plugins by Beck, usable in Claude Code and OpenAI Codex.",
+  "plugins": [
+    {
+      "name": "stride-threat-model",
+      "source": "./plugins/stride-threat-model",
+      "description": "STRIDE threat modelling, attack trees, DREAD scoring, and security test cases"
+    }
+  ]
+}
